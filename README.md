@@ -71,6 +71,6 @@ The goal of these projects was to gain hands-on experience building full stack a
 
 AUTHOR
 
-Vinh Tan Phan  
+Vinh Phan  
 Computer Science Student  
-De Anza College
+
